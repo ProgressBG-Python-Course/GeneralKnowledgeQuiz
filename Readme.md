@@ -1,2 +1,4 @@
-# Python Fundamentals Course Project: General Knowledge Quiz
+# General Knowledge Quiz
+
+## Python Fundamentals Course Project (Demo)
 
